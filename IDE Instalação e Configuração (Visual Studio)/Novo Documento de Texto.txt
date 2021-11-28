@@ -1,0 +1,71 @@
+Visual Studio
+
+Teste
+
+clicar com o botão direito do mouse.
+vai ser criado um novo projeto dentro da solução com o arquivo de teste, cada método deve ser configurado com o padrão AAA.
+
+A seção Organizar(Arrange) de um método de teste de unidade inicializa os objetos e define o valor dos dados que são passados para o método sendo testado.
+A seção Agir(Act) invoca o método sendo testado com os parámetros organizados.
+A seção Declarar(Assert) verifica se a ação em teste se comporta conforme o esperado.
+
+ao clicar no menu teste >executar todos os testes o Visual Studio vai abrir uma janela com os resultados dos testes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

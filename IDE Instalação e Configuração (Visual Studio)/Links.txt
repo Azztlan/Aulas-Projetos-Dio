@@ -1,0 +1,2 @@
+Link para o download do Visual Studio Community 2020
+https://visualstudio.microsoft.com/pt-br/
